@@ -1,0 +1,62 @@
+<templateSet group="presentation">
+  <template name="q1" value="declare(strict_types=1);&#10;&#10;use PHPUnit\Framework\TestCase;&#10;&#10;class PrimeFactorsTest extends TestCase&#10;{&#10;    public function testNothing()&#10;    {&#10;        &#10;    }&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="q2" value="public function testFactor()&#10;{&#10;    $this-&gt;assertEquals($this-&gt;factorsOf(1), []);&#10;}&#10;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="q3" value="    private function factorsOf(int $n): array&#10;    {&#10;        return [];&#10;    }" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="q4" value="$this-&gt;assertEquals($this-&gt;factorsOf(2), [2]);" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="q5" value="$this-&gt;assertEquals($this-&gt;factorsOf(3), [3]);" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="q6" value="$this-&gt;assertEquals($this-&gt;factorsOf(4), [2, 2]);" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="q7" value="if ($n % 2 === 0) {&#10;    $factors[] = 2;&#10;    $n /= 2;&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="q8" value="$this-&gt;assertEquals($this-&gt;factorsOf(5), [5]);" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="q9" value="$this-&gt;assertEquals($this-&gt;factorsOf(6), [2, 3]);" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="q10" value="$this-&gt;assertEquals($this-&gt;factorsOf(7), [7]);" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="q11" value="$this-&gt;assertEquals($this-&gt;factorsOf(8), [2, 2, 2]);" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="q12" value="$this-&gt;assertEquals($this-&gt;factorsOf(9), [3, 3]);" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

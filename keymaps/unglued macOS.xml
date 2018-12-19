@@ -1,0 +1,172 @@
+<keymap version="1" name="unglued macOS" parent="Mac OS X 10.5+">
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="ChangesView.Ignore">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta k" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="CompareClipboardWithSelection">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="Console.TableResult.SetDefault" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="meta alt d" />
+  </action>
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="EditorCodeBlockEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
+    <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id="EditorCodeBlockStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="EditorToggleCase" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl numpad6" />
+  </action>
+  <action id="FileChooser.GotoModule" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="Git.CheckoutRevision">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="ImplementMethods" />
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="shift ctrl right" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="LocalHistory.ShowSelectionHistory">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="meta alt 5" />
+  </action>
+  <action id="PreviousEditorTab" />
+  <action id="PublishGroup.Download">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="RecentProjectListGroup">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Refresh" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="ReplaceInPath" />
+  <action id="Rerun" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="shift ctrl numpad7" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="ctrl numpad3" />
+  </action>
+  <action id="SavaAs" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="ctrl numpad4" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+    <keyboard-shortcut first-keystroke="shift alt space" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="ctrl numpad9" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="ctrl numpad5" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="ctrl numpad8" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift ctrl numpad1" />
+  </action>
+  <action id="StringManipulation.SwitchStyleAction">
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="StructuralSearchPlugin.StructuralSearchAction" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="meta alt t" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ToggleLineBreakpoint" />
+  <action id="UsageView.Rerun" />
+  <action id="Vcs.UpdateProject" />
+  <action id="openInGitHub">
+    <keyboard-shortcut first-keystroke="shift meta alt g" />
+  </action>
+  <action id="org.moreunit.actions.jump">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+</keymap>

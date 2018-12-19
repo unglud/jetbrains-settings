@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Php cs fixer" description="Automatically format code to match PSR standards" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.composer/vendor/bin/php-cs-fixer" />
+      <option name="PARAMETERS" value="fix --verbose --config /Users/aleksandr.matrosov/Work/preisvergleich/.php_cs.dist $FileRelativePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

@@ -1,0 +1,175 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CamelCaseConfig">
+        <option name="cb1State" value="false" />
+        <option name="cb5State" value="false" />
+      </component>
+      <component name="ComposerJsonPluginSettings">
+        <unboundedVersionInspectionSettings>
+          <excludedPackages />
+        </unboundedVersionInspectionSettings>
+        <customRepositories />
+        <composerUpdateOptions />
+      </component>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="BadExceptionsProcessingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="EmptyClassInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="OffsetOperationsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+          <inspection_tool class="PhpAssignmentInConditionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpClassNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_minLength" value="3" />
+            <option name="m_maxLength" value="20" />
+          </inspection_tool>
+          <inspection_tool class="PhpConstantNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpDivisionByZeroInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpFunctionNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_minLength" value="3" />
+          </inspection_tool>
+          <inspection_tool class="PhpIllegalPsrClassPathInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpMethodNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_minLength" value="3" />
+            <option name="m_maxLength" value="25" />
+          </inspection_tool>
+          <inspection_tool class="PhpMethodOrClassCallIsNotCaseSensitiveInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpMissingDocCommentInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpMissingParentCallCommonInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpMissingParentCallMagicInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpMissingStrictTypesDeclarationInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpMultipleClassesDeclarationsInOneFile" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpPropertyNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_minLength" value="3" />
+          </inspection_tool>
+          <inspection_tool class="PhpStaticAsDynamicMethodCallInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpTooManyParametersInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpTraditionalSyntaxArrayLiteralInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpUndefinedCallbackInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpUsageOfSilenceOperatorInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="PhpVariableNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="m_regex" value="[a-z][A-Za-z\d]*" />
+          </inspection_tool>
+          <inspection_tool class="PhpVariableVariableInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="SenselessCommaInArrayDefinitionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="StaticLocalVariablesUsageInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+          <inspection_tool class="UsingInclusionReturnValueInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+        </profile>
+        <option name="PROJECT_PROFILE" value="TeamCore" />
+        <option name="USE_PROJECT_PROFILE" value="false" />
+        <version value="1.0" />
+      </component>
+      <component name="IssueNavigationConfiguration">
+        <option name="links">
+          <list>
+            <IssueNavigationLink>
+              <option name="issueRegexp" value="[A-Z]+\-\d+" />
+              <option name="linkRegexp" value="https://jira.check24.de/browse/$0" />
+            </IssueNavigationLink>
+          </list>
+        </option>
+      </component>
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES6" />
+      </component>
+      <component name="JsBowerSettings">
+        <node-interpreter value="project" />
+        <bower-package value="" />
+        <bower.json value="" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="MessDetector">
+        <phpmd_settings>
+          <MessDetectorConfiguration max_messages_per_file="100" tool_path="$USER_HOME$/.composer/vendor/bin/phpmd" timeout="30000" />
+        </phpmd_settings>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PhpCodeSniffer">
+        <phpcs_settings>
+          <PhpCSConfiguration max_messages_per_file="100" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/.composer/vendor/bin/phpcs" />
+        </phpcs_settings>
+      </component>
+      <component name="PhpDebugGeneral" xdebug_debug_port="9001" />
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+      <component name="PhpWorkspaceProjectConfiguration" interpreter_name="Stock" />
+      <component name="ProjectDictionaryState">
+        <dictionary name="unglued" />
+        <dictionary name="aleksandr.matrosov" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>AngularJS</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="node.js.path.for.package.eslint" value="project" />
+        <property name="node.js.path.for.package.standard" value="project" />
+        <property name="node.js.path.for.package.stylelint" value="project" />
+        <property name="node.js.path.for.package.tslint" value="project" />
+        <property name="node.js.selected.package.eslint" value="/usr/local/lib/node_modules/eslint" />
+        <property name="node.js.selected.package.standard" value="" />
+        <property name="node.js.selected.package.stylelint" value="" />
+        <property name="node.js.selected.package.tslint" value="/usr/local/lib/node_modules/tslint" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="options.lastSelected" value="File.Encoding" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="settings.editor.selected.configurable" value="Errors" />
+      </component>
+      <component name="TypeScriptCompiler">
+        <option name="enableServiceForProjectsWithoutConfig" value="true" />
+        <option name="recompileOnChanges" value="true" />
+        <option name="typeScriptServiceDirectory" value="/usr/local/lib/node_modules/typescript" />
+        <option name="typeScriptCompilerParams" value="--target ESNext --strict --sourceMap" />
+        <option name="versionType" value="SERVICE_DIRECTORY" />
+      </component>
+      <component name="VagrantProjectSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.23523717" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -1,0 +1,144 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/express" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="angular" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_angularjs_1.4.8_angular.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="angular-resource" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_angularjs_1.4.8_angular-resource.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="angular-route" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_angularjs_1.4.8_angular-route.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="angular-ui-router" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_angular-ui-router_0.2.10_angular-ui-router.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="cameratag" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebIde80/extLibs/__cameratag.com_api_v4_js_cameratag.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="html5" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebIde70/extLibs/http_html5shiv.googlecode.com_svn_trunk_html5.js" />
+        <root url="file://$USER_HOME$/Library/Caches/WebIde80/extLibs/__html5shiv.googlecode.com_svn_trunk_html5.js" />
+        <root url="file://$USER_HOME$/Library/Caches/WebIde80/extLibs/http_html5shiv.googlecode.com_svn_trunk_html5.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="html5.ie" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebIde80/extLibs/http_therealtyshow.ru_js_html5.ie.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebIde70/extLibs/__ajax.googleapis.com_ajax_libs_jquery_1.10.2_jquery.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_2.2.0_jquery.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery-2.2.0" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.2.0.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery-3.1.1.slim" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.1." />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.1.1.slim.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery-ui" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery UI" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebIde80/extLibs/__ajax.googleapis.com_ajax_libs_jqueryui_1.9.1_jquery-ui.js" />
+        <root url="file://$USER_HOME$/Library/Caches/WebIde80/extLibs/http_code.jquery.com_ui_1.11.4_jquery-ui.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://jqueryui.com/demos" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="mocha" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="node_modules" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/node_modules/mocha" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="https://mochajs.org/" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="openapi" type="javaScript">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/WebIde80/extLibs/__vk.com_js_api_openapi.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="pusher" type="javaScript">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.pusher.com_4.0_pusher.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="sass-stdlib">
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/sass/lib/stubs/sass_functions.scss" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="vue" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_vue_dist_vue.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_vue_dist_vue.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

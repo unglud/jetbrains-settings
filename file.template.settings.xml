@@ -1,0 +1,10 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <internal_templates>
+      <template name="PHPUnit Test.php" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
+    <includes_templates>
+      <template name="PHP File Header.php" reformat="true" live-template-enabled="true" enabled="true" />
+    </includes_templates>
+  </component>
+</application>

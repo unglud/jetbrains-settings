@@ -1,0 +1,54 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="temp" type="HTML" />
+      <mapping ext="erb" type="HTML" />
+      <mapping pattern="*.json.dist" type="JSON" />
+      <mapping pattern="_test.json" type="JSON" />
+      <mapping pattern="_test" type="JSON" />
+      <mapping ext="dis" type="JSON" />
+      <mapping pattern="*.skel*" type="PHP" />
+      <mapping pattern="googlesearch2pdf" type="PHP" />
+      <mapping pattern="bootstrap" type="PHP" />
+      <mapping pattern="sklonyator" type="PHP" />
+      <mapping pattern="export" type="PHP" />
+      <mapping pattern="burroughs" type="PHP" />
+      <mapping pattern="artisan" type="PHP" />
+      <mapping pattern="run" type="PHP" />
+      <mapping pattern="skeleton" type="PHP" />
+      <mapping ext="dist" type="PHP" />
+      <mapping pattern="asdf" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="chromedriver-linux" type="PLAIN_TEXT" />
+      <mapping pattern="migrate" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="5c06f17c52928427bf52f9bc46e75be2" type="PLAIN_TEXT" />
+      <mapping pattern=".buildpack" type="PLAIN_TEXT" />
+      <mapping pattern="new menu type.sql" type="PLAIN_TEXT" />
+      <mapping pattern="revision" type="PLAIN_TEXT" />
+      <mapping pattern="0365d2c3b4f697f9993f528ac364405e" type="PLAIN_TEXT" />
+      <mapping pattern="0d5a5be32e45b8accab367490798a1" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="accurals_swap" type="PLAIN_TEXT" />
+      <mapping pattern="repare_orders_draft" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="dist_bkp" type="PLAIN_TEXT" />
+      <mapping ext="gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="nogit" type="PLAIN_TEXT" />
+      <mapping ext="worker" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
+      <mapping ext="pug" type="PLAIN_TEXT" />
+      <mapping ext="cong" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="SQL" />
+      <mapping pattern=".gemba" type="YAML" />
+      <mapping ext="gemba" type="YAML" />
+      <mapping ext="back" type="composer.json" />
+      <mapping pattern="catchSubscriber" type="PHP files" />
+    </extensionMap>
+  </component>
+</application>

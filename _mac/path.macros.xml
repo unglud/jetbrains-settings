@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="SITE_TEMPLATE_PATH" value="/Users/unglued/Work/Apus.Agency/uniiiq.ru_git/bitrix/templates/yollo" />
+    <ignoredMacro name="MESSAGE" />
+    <ignoredMacro name="FILE_PATH" />
+    <ignoredMacro name="LINE" />
+    <ignoredMacro name="COLUMN" />
+  </component>
+</application>
+

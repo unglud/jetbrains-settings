@@ -1,0 +1,15 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://pmd.sf.net/ruleset/1.0.0" location="$USER_HOME$/Library/Caches/PhpStorm2018.1/extResources/8a117d51_ruleset_xml_schema.xsd" />
+    <resource url="http://schema.phpunit.de/4.5/phpunit.xsd" location="$USER_HOME$/Library/Caches/WebIde80/extResources/17eb8f02_phpunit.xsd" />
+    <resource url="http://schema.phpunit.de/4.7/phpunit.xsd" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/f4f19c04_phpunit.xsd" />
+    <resource url="http://schema.phpunit.de/5.1/phpunit.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2017.1/extResources/b7badf3f_phpunit.xsd" />
+    <resource url="http://schema.phpunit.de/5.7/phpunit.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2017.2/extResources/4ecd0645_phpunit.xsd" />
+    <resource url="http://schema.phpunit.de/6.1/phpunit.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2017.3/extResources/11964980_phpunit.xsd" />
+    <resource url="http://schema.phpunit.de/6.3/phpunit.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2017.2/extResources/ee9c5682_phpunit.xsd" />
+    <resource url="http://schema.phpunit.de/6.5/phpunit.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2017.3/extResources/cba26384_phpunit.xsd" />
+    <resource url="http://www.w3.org/2001/SMIL20/Language" location="$USER_HOME$/Library/Caches/PhpStorm2018.3/extResources/b60cdaf0_Language.html" />
+    <resource url="https://raw.githubusercontent.com/InteractiveAdvertisingBureau/vast/master/vast_4.1.xsd" location="$USER_HOME$/Library/Caches/PhpStorm2018.3/extResources/e46e7c16_vast_4.1.xsd" />
+    <ignored-resource url="&#10;                     http://pmd.sf.net/ruleset_xml_schema.xsd" />
+  </component>
+</application>

@@ -1,0 +1,384 @@
+<application>
+  <component name="WebServers">
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions hostKeyCheckingLevel="NO">
+        <option name="hostKeyCheckingLevel" value="NO" />
+      </SftpAdvancedOptions>
+    </sftpAdvancedGlobalOptions>
+    <option name="servers">
+      <webServer id="c58ddfaf-b7c6-437b-869f-90259f9f7cf5" name="cultbrands.ru" url="http://cultbrands.ru">
+        <fileTransfer host="188.226.186.220" port="2324" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/cultbrands.ru/public_html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2324" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5871d937-9815-4d24-9a49-7d88b2ed9485" name="dev42.efsol.ru" url="http://dev42.efsol.ru">
+        <fileTransfer host="178.20.238.210" port="22" rootFolder="/var/www/efsol/dev42.efsol.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a86a52ba-20af-4427-bfc2-00c0fc44ac06" name="dubnahome.ru" url="http://dubnahome.ru">
+        <fileTransfer host="u26693.ftp.masterhost.ru" port="21" rootFolder="/dubnahome.ru/www">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="36bb25fb-2617-4cf4-82d8-2d8a0cde0095" name="vorobiov" url="http://37.139.2.153">
+        <fileTransfer host="37.139.2.153" port="2324" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/save-pet.com" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2324" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ded0faf7-68c8-4dae-ba13-d0faa4dc5dda" name="klinika-konsilium.ru" url="http://klinika-konsilium.ru">
+        <fileTransfer host="37.139.2.153" port="22" rootFolder="/var/www/klinika-konsilium.ru/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6ebdc7d0-8fe1-4f9f-a284-2bdb159562ad" name="dev.efsol.ru" url="http://dev.efsol.ru">
+        <fileTransfer host="178.20.238.210" port="22" rootFolder="/var/www/efsol/efsol.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="098c128e-c5af-424b-aed5-991aa4e48cd9" name="unglued" url="http://82.196.7.214">
+        <fileTransfer host="82.196.7.214" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="febb8976-91e1-4159-ae47-e86c8342ce6e" name="antieva.unglued.ru" url="http://82.196.7.214">
+        <fileTransfer host="82.196.7.214" port="22" rootFolder="/home/antieva" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b92d5a1b-5fbc-494b-b706-2e3c2e724ae8" name="studiosmile.ru" url="http://studiosmile.ru">
+        <fileTransfer host="studiosmile.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5f7e7fbb-1275-40ea-b100-10415620f0cd" name="antievakyator.ru" url="http://antievakyator.ru">
+        <fileTransfer host="37.139.2.153" port="2324" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/antievakyator.ru/public_html" accessType="SFTP" keyPair="true">
+          <option name="port" value="2324" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bedbbd3b-f2f9-47b0-8543-a65784cc8b8f" name="apus.ag" url="http://apus.ag">
+        <fileTransfer host="37.139.4.11" port="22" rootFolder="/var/httpd/apus/html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7fd7518e-cbb6-4dba-93be-50a145bf08d5" name="my-chudo.com" url="http://cultbrands.ru">
+        <fileTransfer host="188.226.149.60" port="2324" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/my-chudo.com/public_html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2324" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c0464bce-ad4f-4f6a-a59a-5c2ba051311a" name="yollo.ru" url="http://yollo.ru">
+        <fileTransfer host="178.62.204.136" port="2324" privateKey="$USER_HOME$/.ssh/www-data" rootFolder="/var/www/yollo.ru/public_html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2324" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="570edd47-7ced-4d2d-843f-4340e5e2a768" name="komitetgi.ru" url="http://37.140.192.88">
+        <fileTransfer host="37.140.192.88" port="21" rootFolder="/dev.komitetgi.ru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3fbc0b34-6ab7-46bc-b113-4d21847a53fa" name="ananke" url="http://178.62.246.197">
+        <fileTransfer host="178.62.246.197" port="2324" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2324" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9dfc00e0-ff8a-4bb1-87ab-0f979444b714" name="pokochkam.ru" url="http://pokochkam.ru">
+        <fileTransfer host="178.62.246.197" port="2324" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/pokochkam.ru/public_html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2324" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="be72aee8-a707-4c03-97ec-9b339729472c" name="fleer.ru" url="http://u2226.vh.co.ru">
+        <fileTransfer host="u2226.vh.co.ru" port="21" rootFolder="/www_1/htdocs">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a18e63ce-f17e-4f48-8722-69f3a4d4dbbb" name="civic" url="http://daev.apus.ag">
+        <fileTransfer host="188.226.186.220" port="2324" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/civic.apus.ag" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2324" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="155badec-9fca-42b8-a22b-4f7cdc3f463c" name="cast.therealtyshow.ru" url="http://therealtyshow.ru">
+        <fileTransfer host="178.62.242.89" port="2324" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/therealtyshow.ru/prod" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2324" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="10dba04f-53a3-4ccc-b3ae-2289cd7c132c" name="gunsandnails" url="http://gn.apus.ag">
+        <fileTransfer host="188.226.186.220" port="2324" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/gunsnails" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2324" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c3c027da-372d-4d5c-8631-cb12449b1a98" name="etaloncity-life.ru" url="http://37.140.192.175">
+        <fileTransfer host="37.140.192.175" port="21" rootFolder="/www/etaloncity-life.ru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bde43abc-8ee4-4822-af65-6206016882f3" name="getimpulse.ru" url="http://getimpulse.ru">
+        <fileTransfer host="188.226.186.220" port="2324" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/getimpulse.ru" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2324" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7595c2ab-bcf6-408e-9942-64ee28ecb542" name="domnasretenke.ru" url="http://domnasretenke.ru">
+        <fileTransfer host="176.57.209.6" port="21">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" forceListCommand="true" maxConnections="1" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e948ae22-998c-4106-976c-2e67959fbe15" name="vesta" url="http://188.166.30.219">
+        <fileTransfer host="188.166.30.219" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="05458f3a-1a05-4194-9986-b3995d2f04ef" name="apus.ag (1)" url="http://188.166.30.219">
+        <fileTransfer host="188.166.30.219" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/forge/dev2.apus.ag" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="885629cc-0c11-450f-a9c8-07c9854ea222" name="therealtyshow.ru" url="http://188.166.30.219">
+        <fileTransfer host="188.166.30.219" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/forge/therealtyshow.ru" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4b706588-6a9e-4ff6-817c-7049ed94ae86" name="dev.therealtyshow.ru" url="http://188.166.30.219">
+        <fileTransfer host="188.166.30.219" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/forge/dev.therealtyshow.ru" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="dd63f4f2-5588-445f-86c8-b97dd3eb2e59" name="venus" url="">
+        <fileTransfer host="178.62.242.89" port="2324" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2324" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e70a758d-f6cf-44c5-8b04-9a10561a55ea" name="hamlet" url="">
+        <fileTransfer host="46.101.145.147" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5223b545-bc47-454e-83a0-c7297156187b" name="dev.etaloncity.ru forge" url="http://dev.etaloncity.ru">
+        <fileTransfer host="46.101.145.147" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/forge/dev.etaloncity.ru" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d4a39667-5509-49e4-8580-c5309eed255c" name="kronotexfloor.ru" url="http://kronotexfloor.ru">
+        <fileTransfer host="ftp.laminatm.nichost.ru" port="21" rootFolder="/kronotexfloor.ru/docs">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ec5db8b1-d0ce-40db-9f6c-018b73b19595" name="etaloncity.ru" url="http://dev.etaloncity.ru">
+        <fileTransfer host="46.101.145.147" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/forge/etaloncity.ru" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f9259339-3641-49e4-b7c9-0bcafe1d8efc" name="olimpia.su" url="http://ftp.olimpia.nichost.ru">
+        <fileTransfer host="ftp.olimpia.nichost.ru" port="21" rootFolder="/olimpia.su/docs">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7c7cf925-1225-4402-86ad-3db18aeceead" name="eshop.apus.ag" url="http://188.166.30.219">
+        <fileTransfer host="188.166.30.219" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/forge/eshop.apus.ag" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bfc13f2a-fd92-474a-be09-37d8fca31213" name="smm.apus.ag" url="http://188.166.30.219">
+        <fileTransfer host="188.166.30.219" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/forge/smm.apus.ag" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6a0b6c47-cafe-42d3-a28b-b9e93f375bff" name="newyoutoday.ru" url="http://188.166.30.219">
+        <fileTransfer host="188.166.30.219" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/forge/newyoutoday.ru" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9f592d98-7f56-43c1-94e3-befc81985704" name="konkurs-etalon.ru" url="http://188.166.30.219">
+        <fileTransfer host="188.166.30.219" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/forge/konkurs-etalon.ru" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="513e3eb1-ad26-46bc-ba12-a22005dd8699" name="ariel" url="http://yollo.ru">
+        <fileTransfer host="178.62.204.136" port="2324" privateKey="$USER_HOME$/.ssh/www-data" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2324" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="05910dd0-28a3-4b73-8b24-da90c957ce65" name="kapitanland.ru" url="http://yollo.ru">
+        <fileTransfer host="178.62.204.136" port="2324" privateKey="$USER_HOME$/.ssh/www-data" rootFolder="/var/www/kapitanland.ru" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2324" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3096f45d-9659-40d8-a215-b60d32f3cc91" name="kruti-pedali.ru" url="http://ftp.artbase.ru">
+        <fileTransfer host="ftp.artbase.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3f831fcb-b9b2-4e8b-b803-e0c5a0eae41d" name="eabr.org" url="http://eabr.org">
+        <fileTransfer host="eabr.org" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e2c2fe5a-12f6-4beb-82ba-0242c6ccb8e0" name="cirex.apus.ag" url="http://188.166.30.219">
+        <fileTransfer host="188.166.30.219" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/forge/cirex.apus.ag" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="83623483-339c-4f84-8a8d-637addc075b9" name="bijji" url="http://31.177.95.130">
+        <fileTransfer host="31.177.95.130" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c7ef6f86-f595-466e-8f46-2e989f9ece4d" name="urispride" url="http://ssh.urispride.nichost.ru">
+        <fileTransfer host="ssh.urispride.nichost.ru" port="22" rootFolder="/home/urispride/urispride.ru/docs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e3d7a777-cef7-4c8f-8d8c-72fb34a78e4c" name="artvillage.club" url="http://188.166.30.219">
+        <fileTransfer host="188.166.30.219" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/forge/artvillage.club" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2d800835-871e-44a0-8a51-45f6b3fd2248" name="aec.apus.ag" url="http://188.166.30.219">
+        <fileTransfer host="188.166.30.219" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/forge/aec.apus.ag" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="86aed6ee-eff4-42c1-b884-cd627e1d5e21" name="dev-munster" url="http://fapi.aleksandr.ms.c24/">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/Work/munster/preisvergleich" accessType="MOUNT" />
+      </webServer>
+      <webServer id="272e3741-19c0-47f1-96eb-cc7b2d7bec22" name="dev-munster-sftp" url="http://localhost">
+        <fileTransfer host="dev-munster.ms.c24" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/aleksandr/projects/preisvergleich/" accessType="SFTP" keyPair="true">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

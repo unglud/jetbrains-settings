@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Whitelabel update">
+      <action id="ActivateTerminalToolWindow" />
+      <typing text-keycode="71:0;73:0;84:0;32:0;83:0;85:0;66:0;77:0;79:0;68:0;85:0;76:0;69:0;32:0;85:0;80:0;68:0;65:0;84:0;69:0">git&amp;#x20;submodule&amp;#x20;update</typing>
+      <shortuct text="ENTER" />
+      <shortuct text="meta 3" />
+    </macro>
+  </component>
+</application>
